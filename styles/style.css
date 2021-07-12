@@ -1,0 +1,13 @@
+/* top playres style */
+.playres{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.playre{
+    display: flex;
+    align-items: center;
+}
+.playres img{
+    width: 56px;
+    height: 56px;
+}
